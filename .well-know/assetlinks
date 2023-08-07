@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enocdelgado.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["86:3C:80:71:F7:FB:CC:63:36:17:9F:59:F7:57:3F:EF:31:C4:C2:22:2A:22:4F:4A:C5:F7:D5:00:57:74:54:0E"]
+    }
+  }]
+  
